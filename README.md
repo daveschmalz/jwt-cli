@@ -1,7 +1,7 @@
 # jwt-cli
 Example CLI for working with JSON Web Tokens that leverages the [jsonwebtoken npm package](https://github.com/auth0/node-jsonwebtoken)
 
-Do you find yourself constantly going out to https://jwt.io/ debugger just to decode a JWT? Well now you can have that same functionality right on your local command line interface.
+Do you find yourself constantly going out to the https://jwt.io/ debugger just to decode a JWT? Well now you can have that same functionality right on your local command line interface.
 
 While super basic this can easily be expanded to include more of the features supported by the [jsonwebtoken npm package](https://github.com/auth0/node-jsonwebtoken).
 
